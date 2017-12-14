@@ -27,6 +27,7 @@ public class JavaVariables {
 	char y = 65 ; // will print the UNICODE value of 65 i.e. A since data type is CHAR
 	double discount = 10.25 ; // here we can use trailing d/D as we use in float but its just an optional:)
 	float comission = 23.56f; // f or F is used to denote float no.
+	long l = 5678L;
 	
 	// Now lets print all these variables on console and to do so we need to write main method since Java execution start with main() method
 	
